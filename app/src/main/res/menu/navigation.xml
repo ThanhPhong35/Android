@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mHome"
+        android:title="Trang chu"
+        android:icon="@drawable/ic_home"
+        />
+    <item
+        android:id="@+id/mFavorite"
+        android:title="Yeu thich"
+        android:icon="@drawable/ic_favorite"
+        />
+    <item
+        android:id="@+id/mStatistic"
+        android:title="Thong ke"
+        android:icon="@drawable/ic_statistic"
+        />
+</menu>
